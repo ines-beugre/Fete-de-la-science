@@ -1,10 +1,12 @@
-package mm.ccn2.istic.fr.fetedelamusique;
+package mm.ccn2.istic.fr.fetedelamusique.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+
+import mm.ccn2.istic.fr.fetedelamusique.R;
 
 public class MainActivity extends AppCompatActivity {
 
