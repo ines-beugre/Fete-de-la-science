@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597278520276",
+    "firebase_url": "https://fete-de-la-musique-52570.firebaseio.com",
+    "project_id": "fete-de-la-musique-52570",
+    "storage_bucket": "fete-de-la-musique-52570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597278520276:android:584e530640d32878",
+        "android_client_info": {
+          "package_name": "mm.ccn2.istic.fr.fetedelamusique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597278520276-4m2nii4b2kb8nuuktjhtfispjallah7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mm.ccn2.istic.fr.fetedelamusique",
+            "certificate_hash": "3447474f51ba2847a4349c6c3430d8431642a26f"
+          }
+        },
+        {
+          "client_id": "597278520276-ll25jfvvffgu4a6n1nitpv22cd9g0jq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUSZI40gvf42rQkzpfJpBoA8dGIJL2Vg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597278520276-ll25jfvvffgu4a6n1nitpv22cd9g0jq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
